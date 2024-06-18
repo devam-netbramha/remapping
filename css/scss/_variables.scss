@@ -5,8 +5,10 @@ $secondary_color: #6c97c5;
 $sub_secondary_color: #d79839;
 
 $secondary-yellow: #FCD800;
+$cta_yellow: #FCD800;
 
 $primary-dark-blue: #004364;
+$dark_primary_color: #004364;
 
 $black: #262626;
 $white: #ffffff;
@@ -108,7 +110,7 @@ $fas_color: #7f8d8d;
 }
 
 @font-face {
-    font-family: 'Roboto';
+    font-family: 'Roboto-Semi';
     src: url('../../fonts/Roboto-Medium.ttf') format('truetype');
     font-weight: 500;
 }
@@ -128,6 +130,8 @@ $ir: 'IntroRegular';
 $isb: 'IntroSemiBold';
 $rb: 'Roboto-Bold';
 $roboto: 'Roboto';
+$rr: 'Roboto';
+$rs: 'Roboto-Semi';
 
 
 
